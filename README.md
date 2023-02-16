@@ -37,4 +37,4 @@ Todo List: A task list application developed with React, Typescript, Redux, Redu
 
 ### Contact
 
-If you'd like to get in touch with me, feel free to send me a message on Github or by email at marcosrs805@gmail.com
+If you'd like to get in touch with me, feel free to send me a message on Github or by [LinkdIn](https://www.linkedin.com/in/marcos-salles-des-software/)
